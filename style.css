@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header, nav{
+    background-color: lightblue;
+}
+
+img{
+    margin: 10px;
+}
+
+h1{
+    text-align: center;
+    color: purple;
+    background-color: orange;
+}
+
+footer{
+background-color:white;
+
+}
+
+footer p {
+background-color:green;
+padding: 10px;
+margin: 5px;
+
+}
+nav{
+color: white;
+
+}
